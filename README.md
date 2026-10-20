@@ -4,15 +4,14 @@ Descarga videos (YouTube, Instagram, TikTok...), recórtalos con un visor tipo R
 
 Hecha por Oscar Burgos. Mascota: Timo.
 
-## Descargar (Windows 10 / 11)
+## Instalar (Windows 10 / 11)
 
-1. Ve a **[Releases → la última versión](https://github.com/vincentimo-18/VideoToFrames/releases/latest)** y baja `VideoToFrames-win.zip`.
-2. Clic derecho al zip → **Extraer todo**.
-3. Abre la carpeta y haz doble clic en `VideoToFrames.exe`.
-4. Si Windows dice "Windows protegió tu PC": **Más información → Ejecutar de todas formas** (la app no está firmada).
+1. Ve a **[Releases → la última versión](https://github.com/vincentimo-18/VideoToFrames/releases/latest)** y baja `VideoToFrames-Setup.exe`.
+2. Doble clic al instalador. Si Windows dice "Windows protegió tu PC": **Más información → Ejecutar de todas formas** (la app no está firmada).
+3. Siguiente → Instalar. No necesita permisos de administrador.
 
-Dentro del zip va el archivo **LEEME** con todas las instrucciones.
+La encuentras en el menú Inicio como **Video To Frames**. Se desinstala desde Configuración → Aplicaciones.
 
 ## Actualizar
 
-La app avisa sola cuando hay versión nueva: pulsa **Actualizar** y se reinstala sola en unos segundos.
+La app avisa sola cuando hay versión nueva: pulsa **Actualizar** y se instala y se vuelve a abrir en unos segundos.
